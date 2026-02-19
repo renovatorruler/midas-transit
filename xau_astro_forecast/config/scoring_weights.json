@@ -1,0 +1,46 @@
+{
+    "planet_weights": {
+        "Pluto": 10,
+        "Neptune": 9,
+        "Uranus": 8,
+        "Saturn": 7,
+        "Jupiter": 6,
+        "Mars": 5,
+        "Venus": 4,
+        "Mercury": 3,
+        "Sun": 5,
+        "Moon": 4,
+        "True Node": 6,
+        "Mean Node": 5
+    },
+    "angle_weights": {
+        "N.ASC": 7,
+        "N.MC": 7
+    },
+    "aspect_type_multipliers": {
+        "conjunction": 1.5,
+        "opposition": 1.3,
+        "square": 1.2,
+        "trine": 0.8,
+        "sextile": 0.6,
+        "semi-sextile": 0.4
+    },
+    "orb_decay_factor": 2.0,
+    "phase_thresholds": {
+        "EXTREME PRESSURE": 8.0,
+        "HIGH PRESSURE": 6.0,
+        "MODERATE": 4.0,
+        "LOW": 2.0,
+        "MINIMAL": 0.0
+    },
+    "state_thresholds": {
+        "PEAK": 0.3,
+        "BUILDING": 0.55,
+        "EASING": 1.0
+    },
+    "context_rules": {
+        "tight_orb_threshold": 0.3,
+        "many_aspects_threshold": 5,
+        "few_aspects_threshold": 2
+    }
+}

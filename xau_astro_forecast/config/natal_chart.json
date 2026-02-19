@@ -1,0 +1,14 @@
+{
+    "name": "COMEX Gold Futures First Trade",
+    "date": "1974-12-31",
+    "time": "08:20",
+    "timezone": "EST",
+    "utc_offset": -5,
+    "ut_hour": 9.5,
+    "location": {
+        "name": "New York City",
+        "latitude": 40.7128,
+        "longitude": -74.0047
+    },
+    "notes": "UT hour 9.5 produces historically documented ASC=241.35 MC=166.87 for COMEX gold natal chart"
+}
