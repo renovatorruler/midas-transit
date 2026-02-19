@@ -1,0 +1,12 @@
+{
+  "aspects": {
+    "conjunction": {"angle": 0, "orb": 1.0, "symbol": "☌"},
+    "semi-sextile": {"angle": 30, "orb": 1.0, "symbol": "⚺"},
+    "sextile": {"angle": 60, "orb": 1.0, "symbol": "⚹"},
+    "square": {"angle": 90, "orb": 1.0, "symbol": "□"},
+    "trine": {"angle": 120, "orb": 1.0, "symbol": "△"},
+    "opposition": {"angle": 180, "orb": 1.0, "symbol": "☍"}
+  },
+  "outer_outer_orb": 0.5,
+  "outer_planets": ["Jupiter", "Saturn", "Uranus", "Neptune", "Pluto"]
+}
